@@ -9,7 +9,7 @@
 
 // End of declaration
 
-int main() {
+int main(void) {
     ui_event_t uievent = {0};
 
     mutekix_console_init(NULL);
